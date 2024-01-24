@@ -1,5 +1,3 @@
-# README for CSC3022F Assignment 4
-
 ## clustering.py
 clustering.py implements an algorithm which is capable of categorizing the provided datapoints into k groups of similarity. 
 This file contains both the "point" class of this assignment, the methods required for implementing k-means clustering and the main method. 
